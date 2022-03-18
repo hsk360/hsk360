@@ -13,7 +13,8 @@
 -    Taking care of family and friends
   
  🌱 I’m currently learning organizational security from AD structure to policies to vulnerability management to SIEM management to....
- 💞️ I’m looking to collaborate on 
+ 
+ 💞️ I’m looking to collaborate with professional, respectful, and inclusive teammates with extraordinary talents.
 
 
 <!---
